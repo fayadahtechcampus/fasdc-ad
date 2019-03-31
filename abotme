@@ -1,2 +1,4 @@
 v = "hi"
 s = 22
+a=python
+print(a)
